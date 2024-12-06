@@ -8,7 +8,7 @@ include('./inc/sidebar.php');
         <div class="container-fluid">
             <h1 class="mt-4">Form Vertical</h1>
             <ol class="breadcrumb mb-4">
-                <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>/pages/dashboard.php">Dashboard</a></li>
                 <li class="breadcrumb-item active">Form Vertical</li>
             </ol>
             <div class="card mb-4">

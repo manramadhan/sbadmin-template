@@ -7,7 +7,7 @@
                     <div class="container-fluid">
                         <h1 class="mt-4">Sidenav Light</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo BASE_URL; ?>/pages/dashboard.php">Dashboard</a></li>
                             <li class="breadcrumb-item active">Sidenav Light</li>
                         </ol>
                         <div class="card mb-4">
